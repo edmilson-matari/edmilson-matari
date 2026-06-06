@@ -12,24 +12,22 @@ const axios = require('axios').default;
 
 md.use(mdEmoji);
 
-const BLOG_HOST = `https://blog.stanleylim.me`;
+const BLOG_HOST = `#`;
 
 /* README Sections */
-const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Stanley', 'https://stanleylim.me/')}`);
-const introDescription = `I'm currently a software engineer at **${generateLink('Snapchat', 'https://www.snapchat.com/')}** and formerly at **${generateLink(
-    'AWS',
-    'https://aws.amazon.com/'
-)}** based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.`;
+const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Edmilson', '#')}`);
+const introDescription = `I'm currently a software engineer student at 42**${generateLink('Snapchat', 'https://www.42luanda.com/')}**
+)}** Currently building some side projects.`;
 
-const notice = `🍌 Don't forget to get some Potassium 🍌`
+const notice = `If you like remember to follow and like`
 
 const badgeConfigs = [{
         name: 'Website',
-        badgeText: 'stanleylim.me',
+        badgeText: '#',
         labelBgColor: '4E69C8',
         logoBgColor: '4E69C8',
         logo: 'Firefox',
-        link: 'https://stanleylim.me',
+        link: '#',
     },
     {
         name: 'Medium',
@@ -37,7 +35,7 @@ const badgeConfigs = [{
         labelBgColor: '14c767',
         logoBgColor: '14c767',
         logo: 'Medium',
-        link: 'https://medium.com/@serbis',
+        link: '#',
     },
     {
         name: 'LinkedIn',
@@ -45,23 +43,7 @@ const badgeConfigs = [{
         labelBgColor: '0077B5',
         logoBgColor: '0077B5',
         logo: 'LinkedIn',
-        link: 'https://www.linkedin.com/in/serbis/',
-    },
-    {
-        name: 'DevTo',
-        badgeText: '@spiderpig86',
-        labelBgColor: '0A0A0A',
-        logoBgColor: '0A0A0A',
-        logo: 'dev.to',
-        link: 'https://dev.to/spiderpig86',
-    },
-    {
-        name: 'Spotify',
-        badgeText: '@Stanley%20Lim',
-        labelBgColor: '1ED760',
-        logoBgColor: 'fff',
-        logo: 'Spotify',
-        link: 'https://open.spotify.com/user/1235099575',
+        link: 'https://www.linkedin.com/in/edmilson-matari-68436b357',
     },
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
@@ -69,12 +51,10 @@ const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBa
 const gif = `<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />`;
 const factsTitle = generateTitle(2, `:zap: A Few Quick Facts`);
 const factsConfigs = [
-    `🔭 I’m currently working on [Cirrus](https://github.com/Spiderpig86/Cirrus).`,
-    `🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **ML**.`,
-    `👨‍💻 Most of my projects are available on [Github](https://github.com/Spiderpig86).`,
-    `📝 I <del>regularly</del> write articles on [my blog](${BLOG_HOST}).`,
-    `💬 Ping me about **react, koa, security, and cloud stuff**.`,
-    `📙 Check out my [resume](https://www.stanleylim.me/resume/resume.pdf).`,
+    `🔭 I’m curretly learning Java and Spring Boot [Cirrus](https://github.com/Spiderpig86/Cirrus).`,
+    `🧐 Learning about **microservicies**, **distributed systems**, and a bit of **ML**.`,
+    `👨‍💻 Most of my projects are available on [Github](https://github.com/edmilson-matari).`,
+    `💬 We can chat about **Java, NodeJS, Spring Boot, and system administration**.`,
     `🎉 Fun Fact: 我也会讲中文。`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
