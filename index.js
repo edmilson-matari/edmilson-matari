@@ -12,7 +12,7 @@ const axios = require('axios').default;
 
 md.use(mdEmoji);
 
-const BLOG_HOST = `#`;
+const BLOG_HOST = process.env.BLOG_HOST || `#`;
 
 /* README Sections */
 const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Edmilson', '#')}`);
@@ -175,8 +175,11 @@ const visitors = `[![HitCount](https://hits.dwyl.com/spiderpig86/spiderpig86/spi
 (async () => {
 
     // Get blog entries
-    const response = await axios.get(`${BLOG_HOST}/page-data/index/page-data.json`);
-    const postData = response.data.result.data.allMarkdownRemark.edges;
+    let postData = [];
+    if (isHttpUrl(BLOG_HOST)) {
+        const response = await axios.get(`${BLOG_HOST}/page-data/index/page-data.json`);
+        postData = response.data.result.data.allMarkdownRemark.edges;
+    }
     let posts = ``;
 
     postData.slice(0, Math.min(postData.length, 5)).map(post => {
@@ -231,4 +234,13 @@ function generateTitle(size, title) {
 
 function generateLink(label, link) {
     return `[${label}](${link})`;
+}
+
+function isHttpUrl(value) {
+    try {
+        const parsedUrl = new URL(value);
+        return parsedUrl.protocol === 'http:' || parsedUrl.protocol === 'https:';
+    } catch (error) {
+        return false;
+    }
 }
