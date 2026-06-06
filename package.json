@@ -1,5 +1,5 @@
 {
-  "name": "spiderpig86",
+  "name": "mitcho",
   "version": "1.0.0",
   "description": "Personal README.",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Spiderpig86/Spiderpig86.git"
+    "url": #"
   },
-  "author": "Stanley Lim",
+  "author": "Edmilson Matari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Spiderpig86/Spiderpig86/issues"
+    "url": "#"
   },
-  "homepage": "https://github.com/Spiderpig86/Spiderpig86#readme",
+  "homepage": "#",
   "dependencies": {
     "axios": "^0.21.1",
     "markdown-it": "^11.0.0",
