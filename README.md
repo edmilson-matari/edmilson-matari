@@ -1,11 +1,11 @@
 <h2>Hey 👋, I'm <a href="#">Edmilson</a></h2>
-<p>I'm currently a software engineer student at 42<br>** Currently building some side projects **.</p>
+<p>I'm currently a software engineer student at 42<br>Currently building some side projects.</p>
 <p><a href="#"><img src="https://img.shields.io/badge/-#-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=#" alt="Website Badge"></a> <a href="#"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=#" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/edmilson-matari-68436b357"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/edmilson-matari-68436b357" alt="LinkedIn Badge"></a></p>
 <p>If you like remember to follow and like</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m curretly learning Java and Spring Boot.</li>
+<li>🔭 I’m currently learning Java and Spring Boot.</li>
 <li>🧐 Learning about <strong>microservicies</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/edmilson-matari">Github</a>.</li>
 <li>💬 We can chat about <strong>Java, NodeJS, Spring Boot, and system administration</strong>.</li>
