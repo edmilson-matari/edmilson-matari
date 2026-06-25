@@ -11,10 +11,6 @@
 <li>💬 We can chat about <strong>Java, NodeJS, Spring Boot, and system administration</strong>.</li>
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
-<h2>✒️ Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-</details>
 <p><a target="_blank" href="#">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
