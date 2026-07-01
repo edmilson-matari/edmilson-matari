@@ -1,28 +1,103 @@
-<h2>Hey 👋, I'm <a href="#">Edmilson</a></h2>
-<p>I'm currently a software engineer student at 42<br>Building projects that will make me grow.</p>
-<p><a href="#"><img src="https://img.shields.io/badge/-#-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=#" alt="Website Badge"></a> <a href="#"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=#" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/edmilson-matari-68436b357"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/edmilson-matari-68436b357" alt="LinkedIn Badge"></a></p>
-<p>If you like remember to follow and like</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently learning Java and Spring Boot.</li>
-<li>🧐 Learning about <strong>microservicies</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/edmilson-matari">Github</a>.</li>
-<li>💬 We can chat about <strong>Java, NodeJS, Spring Boot, and system administration</strong>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
-</ul>
-<p><a target="_blank" href="#">Read More</a></p>
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Hi,%20I'm%20YOUR_NAME&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+clean%2C+scalable+web+apps;Always+learning+something+new" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### About Me
+
+- 💻 Full-stack developer focused on clean, maintainable code
+- 🌱 Currently deepening my skills in **[fill in — e.g. TypeScript, Rust, GraphQL]**
+- 🎯 2026 goal: **[fill in — e.g. ship a SaaS product / contribute to OSS]**
+- ⚡ Fun fact: **[fill in something personal]**
+
+</td>
+<td valign="top" width="50%">
+
+### Quick Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" width="38%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Contribution Graph
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+<sub>↑ Add the snake animation via GitHub Actions — instructions below</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Featured Projects
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" />
+</a>
+<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
