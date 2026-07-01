@@ -1,4 +1,3 @@
-<div style="background-color: white">
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=180&section=header&text=Hi,%20I'm%20Edmilson%20Matari&fontSize=38&fontColor=000000&animation=fadeIn&fontAlignY=38" width="100%"/>
@@ -98,4 +97,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
-</div>
