@@ -70,15 +70,11 @@
 
 <img src="https://raw.githubusercontent.com/edmilson-matari/edmilson-matari/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-<sub>↑ Powered by the GitHub Actions snake workflow — see snake.yml</sub>
-
 </div>
 
 <br/>
 
 <div align="center">
-
-<sub>Replace PROJECT_ONE / PROJECT_TWO with your real repo names</sub>
 
 </div>
 
