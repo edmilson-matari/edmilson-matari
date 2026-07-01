@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-<table>
+<table align="center">
 <tr>
 <td width="60%" valign="top">
 
@@ -26,11 +26,6 @@
 - 🎯 2026 goal: **[fill in — e.g. ship a SaaS product / contribute to OSS]**
 - 🎉 Fun fact: **[fill in something personal]**
 - 💬 Ask me about: Java, Spring Boot, Docker, or how to automate your life with n8n
-
-</td>
-<td width="40%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=edmilson-matari&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -89,19 +84,6 @@
 </div>
 
 <br/>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/edmilson-matari/PROJECT_ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=PROJECT_ONE&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/edmilson-matari/PROJECT_TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=PROJECT_TWO&theme=radical&hide_border=true" />
-</a>
-
-<sub>Replace PROJECT_ONE / PROJECT_TWO with your real repo names</sub>
 
 </div>
 
