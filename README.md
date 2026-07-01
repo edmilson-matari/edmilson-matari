@@ -34,7 +34,7 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=edmilson-matari&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilson-matari&layout=compact&theme=radical&hide_border=true" width="38%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=edmilson-matari&layout=compact&theme=radical&hide_border=true" width="38%"/>
 
 </div>
 
