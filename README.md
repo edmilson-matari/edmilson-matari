@@ -21,13 +21,7 @@
 - ⚡ Fun fact: **[fill in something personal]**
 
 </td>
-<td valign="top" width="50%">
 
-### Quick Stats
-
-<img src="https://github-stats-extended.vercel.app/api?username=edmilson-matari&show_icons=true&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" width="100%" />
-
-</td>
 </tr>
 </table>
 
