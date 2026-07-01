@@ -1,34 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=180&section=header&text=Hi,%20I'm%20Edmilson%20Matari&fontSize=38&fontColor=000000&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Edmilson!%20👋&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Linux+%26+System+Administration;Automating+workflows+with+AI+%26+n8n" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=F72585&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Developer;⚙️+Java+%7C+Spring+Boot+%7C+React;🐧+Linux+%26+System+Admin+enthusiast;🤖+Automating+the+world+with+AI+%2B+n8n;☕+Powered+by+curiosity+and+coffee" alt="Typing SVG" />
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=edmilson-matari&color=f72585&style=for-the-badge&label=WELCOME+TO+MY+PROFILE)
 
 </div>
 
 <br/>
 
-<table align="center">
+## 🙋‍♂️ About Me
+
+<table>
 <tr>
-<td valign="top" width="50%">
+<td width="60%" valign="top">
 
-### About Me
-
-- 💻 Full-stack developer building backend systems and web apps
-- 🐧 Comfortable across **Linux & System Administration**
-- 🤖 Exploring **AI-driven automation** with tools like **n8n**
+- ⚡ I love turning complex problems into clean, working software
+- 🛠️ Backend-heavy, but I'll happily jump into frontend when needed
+- 🐧 Living on the terminal — Linux & System Administration are second nature
+- 🤖 Obsessed with automating everything — currently deep into **n8n + AI workflows**
+- 🌍 Based in Angola, building things for the world
 - 🎯 2026 goal: **[fill in — e.g. ship a SaaS product / contribute to OSS]**
-- ⚡ Fun fact: **[fill in something personal]**
+- 🎉 Fun fact: **[fill in something personal]**
+- 💬 Ask me about: Java, Spring Boot, Docker, or how to automate your life with n8n
 
 </td>
+<td width="40%" valign="top">
 
+<img src="https://github-readme-stats.vercel.app/api?username=edmilson-matari&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%"/>
+
+</td>
 </tr>
 </table>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edmilson-matari&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%" height="50%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=edmilson-matari&layout=compact&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" width="38%" height="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edmilson-matari&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilson-matari&layout=compact&theme=radical&hide_border=true" width="38%"/>
+
+</div>
+
+<br/>
+
+## 🧰 My Toolbox
+
+<div align="center">
+
+**Languages & Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**DevOps, Systems & Automation**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![System Administration](https://img.shields.io/badge/System%20Administration-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-9146FF?style=for-the-badge&logo=robotframework&logoColor=white)
 
 </div>
 
@@ -36,64 +80,49 @@
 
 <div align="center">
 
-### Languages & Backend
+## 🐍 My Contribution Snake
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+<img src="https://raw.githubusercontent.com/edmilson-matari/edmilson-matari/output/github-contribution-grid-snake.svg" width="90%"/>
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps, Systems & Automation
-
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
-![System Administration](https://img.shields.io/badge/System%20Administration-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+<sub>Powered by GitHub Actions — see snake.yml</sub>
 
 </div>
 
 <br/>
 
+## 🌟 Featured Projects
+
 <div align="center">
 
-### Contribution Graph
+<a href="https://github.com/edmilson-matari/PROJECT_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=PROJECT_ONE&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/edmilson-matari/PROJECT_TWO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=PROJECT_TWO&theme=radical&hide_border=true" />
+</a>
 
-<img src="https://raw.githubusercontent.com/edmilson-matari/edmilson-matari/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<sub>Replace PROJECT_ONE / PROJECT_TWO with your real repo names</sub>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-</div>
-
-<br/>
+## 🤝 Let's Connect
 
 <div align="center">
 
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edmilson-matari-68436b357)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edmilsonfrancisco711@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=edmilson-matari&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+
+<div align="center">
+
+### ⭐ Thanks for stopping by — don't be shy, drop a follow! ⭐
+
+</div>
