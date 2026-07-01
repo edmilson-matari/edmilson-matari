@@ -24,7 +24,7 @@
 
 ### Quick Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=edmilson-matari&show_icons=true&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" width="100%"/>
 
 </td>
 </tr>
@@ -32,8 +32,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" width="38%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edmilson-matari&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilson-matari&layout=compact&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" width="38%"/>
 
 </div>
 
@@ -62,7 +62,7 @@
 
 ### Contribution Graph
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/edmilson-matari/edmilson-matari/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 <sub>↑ Add the snake animation via GitHub Actions — instructions below</sub>
 
@@ -74,11 +74,11 @@
 
 ### Featured Projects
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" />
+<a href="https://github.com/edmilson-matari/PROJECT_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=PROJECT_ONE&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" />
 </a>
 <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=PROJECT_TWO&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" />
 </a>
 
 </div>
@@ -96,7 +96,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=edmilson-matari&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
