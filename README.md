@@ -79,15 +79,6 @@
 
 <div align="center">
 
-### Featured Projects
-
-<a href="https://github.com/edmilson-matari/PROJECT_ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=PROJECT_ONE&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" />
-</a>
-<a href="https://github.com/edmilson-matari/PROJECT_TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=PROJECT_TWO&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" />
-</a>
-
 <sub>Replace PROJECT_ONE / PROJECT_TWO with your real repo names</sub>
 
 </div>
