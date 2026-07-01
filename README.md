@@ -26,6 +26,7 @@
 ### Quick Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=edmilson-matari&show_icons=true&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" width="100%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmilson-matari&show_icons=true&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000)
 
 </td>
 </tr>
