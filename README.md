@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Hi,%20I'm%20Edmilson%20Matari&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=180&section=header&text=Hi,%20I'm%20Edmilson%20Matari&fontSize=38&fontColor=000000&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Linux+%26+System+Administration;Automating+workflows+with+AI+%26+n8n" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Linux+%26+System+Administration;Automating+workflows+with+AI+%26+n8n" alt="Typing SVG" />
 
 </div>
 
