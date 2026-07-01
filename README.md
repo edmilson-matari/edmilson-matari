@@ -23,8 +23,8 @@
 - 🐧 Living on the terminal — Linux & System Administration are second nature
 - 🤖 Obsessed with automating everything — currently deep into **n8n + AI workflows**
 - 🌍 Based in Angola, building things for the world
-- 🎯 2026 goal: **[fill in — e.g. ship a SaaS product / contribute to OSS]**
-- 🎉 Fun fact: **[fill in something personal]**
+- 🎯 2026 goal: **Build a production level project**
+- 🎉 Fun fact: **趣味はアニメとチェスで、日本に旅行したいと思っています。**
 - 💬 Ask me about: Java, Spring Boot, Docker, or how to automate your life with n8n
 
 </td>
