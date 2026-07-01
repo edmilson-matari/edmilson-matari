@@ -78,7 +78,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=AI_Voice_Budgeting_System&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" />
 </a>
 <a href="https://github.com/edmilson-matari/mundialeconomic">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=mundialeconomic&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=edmilson-matari&repo=mundialeconomic&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=2EA043" />
 </a>
 
 </div>
