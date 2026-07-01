@@ -27,8 +27,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edmilson-matari&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=edmilson-matari&layout=compact&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" width="38%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edmilson-matari&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" width="48%" height="50%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=edmilson-matari&layout=compact&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" width="38%" height="50%"/>
 
 </div>
 
